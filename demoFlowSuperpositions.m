@@ -77,6 +77,8 @@ prCoeffTheory = 1.0 - 4.0*sin(thetaSurface).^2;
 
 % how we can now interpolate the gridded pressure coefficient on the
 % surface of the circle and show the variation as a function over theta ?
+% Let us consider this function as 'prCoeffTheta'
+
 
 
 figure(1)
