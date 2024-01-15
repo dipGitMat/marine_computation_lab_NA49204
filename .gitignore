@@ -1,0 +1,15 @@
+!*
+!/**/
+!*.*
+*.o
+output
+*.mod
+*.csv
+*.txt
+*.asv
+*.swp
+*.jpeg
+OUT*
+NFSP*
+csv_files/.~lock*
+/.metadata/
